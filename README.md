@@ -100,6 +100,7 @@ Models that ship as research artifacts or first-party products, generally access
 - [fal.ai](https://fal.ai/) — Low-latency hosted endpoints for video models including Seedance 2.0, Kling, Hailuo, and Wan.
 - [WaveSpeedAI](https://wavespeed.ai/) — Aggregator API across Sora, Kling, Veo, Seedance, Hailuo, Wan, and others.
 - [KIE.ai](https://kie.ai/) — Aggregator API exposing Sora, Kling, Runway, Veo, and Seedance under a unified key.
+- [Kling AI MCP plugin](https://github.com/klingai-tech/claude-plugin) — Connects Claude Code to Kling’s hosted image and video generation tools through OAuth.
 - [AI/ML API](https://aimlapi.com/) — Multi-provider API with OpenAI-compatible endpoints covering Hailuo, Kling, Veo, Runway, and others.
 - [Hugging Face Inference Providers](https://huggingface.co/inference-api) — Hosted inference for open video models.
 - [NVIDIA NIM](https://build.nvidia.com/stabilityai/stable-video-diffusion) — Containerized inference microservices including Stable Video Diffusion.
